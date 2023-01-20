@@ -1,9 +1,6 @@
-### Hi there 👋
+### Olá Mundo! 👋, me chamo Zé Wemerson, Desenvolvedor Front-end 
 
-<!--
-**josepdrjw/josepdrjw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +10,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+<a href="mailto:josepdrjw@gmail.com">
+  <img
+</a>

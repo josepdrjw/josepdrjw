@@ -9,7 +9,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-📫
+📫</br>
 <a href="mailto:josepdrjw@gmaill.com">
 <image src="https://i.imgur.com/WJ7x5U7.jpg"/>
 </a> 

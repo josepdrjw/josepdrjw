@@ -15,7 +15,7 @@
   <img align="center" alt="Ze-javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width: 100%;">
   <img align="center" alt="ze-react" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" style="max-width: 100%;">
     <img align="center" alt="ze-react-redux" height="30" width="40" src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" style="max-width: 100%;">
-      <img align="center" alt="ze-docker" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/7/79/Docker_%28container_engine%29_logo.png?20150121160542" style="max-width: 100%;">
+      <img align="center" alt="ze-docker" height="30" width="40" src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-500x281.png" style="max-width: 100%;">
 </div></br></br>
 
 📫</br>

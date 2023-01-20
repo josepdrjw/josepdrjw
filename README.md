@@ -11,5 +11,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <a href="mailto:josepdrjw@gmail.com">
-  <img src="https://i.imgur.com/PKv4E62.png" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=blue" style="max-width: 100%;">
+  <img src="https://i.imgur.com/PKv4E62.png" data-canonical-src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&amp;logo=gmail&amp;logoColor=blue" style="max-width: 30%;">
 </a>

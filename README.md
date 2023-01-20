@@ -1,13 +1,11 @@
-### Olá Mundo! 👋, me chamo Zé Wemerson, Desenvolvedor Front-end 
+### Olá Mundo! 👋, me chamo Zé Wemerson, Desenvolvedor Front-end!
 
 
 
-- 💰 Atuamente trabalho com vendas.
-- 👨🏾‍🎓👩‍💻 Em formação em desenvolvimento <span>Back-end</span>.
-- 🚀🔨 Buscando vagas em TECNOLOGIA almeijando adquirir valores.
+- 💰🔨 Atuamente trabalho com vendas.
+- 👨🏾‍🎓💻 Em formação em desenvolvimento <span>Back-end</span>.
+- 🚀👩‍💻 Buscando vagas em TECNOLOGIA almeijando adquirir valores.
 - 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
 📫</br>
 <a href="mailto:josepdrjw@gmaill.com">

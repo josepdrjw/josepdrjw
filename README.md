@@ -11,5 +11,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <a href="mailto:josepdrjw@gmail.com">
-  <img src="https://i.imgur.com/PKv4E62.png" style="max-width: 30%;">
+  <img src="https://i.imgur.com/PKv4E62.png" style="width="87.25"; heigth="28"">
 </a>

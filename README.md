@@ -10,6 +10,9 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="87.25" height="28" role="img" aria-label="GMAIL"><title>GMAIL</title><g shape-rendering="crispEdges"><rect width="87.25" height="28" fill="#333"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><image x="9" y="7" width="14" height="14" xlink:href="https://i.imgur.com/hGVSWzr.png"/><text transform="scale(.1)" x="536.25" y="175" textLength="432.5" fill="#fff" font-weight="bold">GMAIL</text></g></svg>
+
 <a href="mailto:josepdrjw@gmail.com">
   <img src="https://i.imgur.com/hGVSWzr.png" style="width="87.25"; heigth="28"">
 </a>

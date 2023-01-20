@@ -11,8 +11,5 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="87.25" height="28" role="img" aria-label="GMAIL"><title>GMAIL</title><g shape-rendering="crispEdges"><rect width="87.25" height="28" fill="#333"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><image x="9" y="7" width="14" height="14" xlink:href="https://i.imgur.com/hGVSWzr.png"/><text transform="scale(.1)" x="536.25" y="175" textLength="432.5" fill="#fff" font-weight="bold">GMAIL</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="87.25" height="28" role="img" aria-label="GMAIL"><title>GMAIL</title><g shape-rendering="crispEdges"><rect width="87.25" height="28" fill="#ff0000"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><image x="9" y="7" width="14" height="14" xlink:href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkdtYWlsPC90aXRsZT48cGF0aCBkPSJNMjQgNS40NTd2MTMuOTA5YzAgLjkwNC0uNzMyIDEuNjM2LTEuNjM2IDEuNjM2aC0zLjgxOVYxMS43M0wxMiAxNi42NGwtNi41NDUtNC45MXY5LjI3M0gxLjYzNkExLjYzNiAxLjYzNiAwIDAgMSAwIDE5LjM2NlY1LjQ1N2MwLTIuMDIzIDIuMzA5LTMuMTc4IDMuOTI3LTEuOTY0TDUuNDU1IDQuNjQgMTIgOS41NDhsNi41NDUtNC45MSAxLjUyOC0xLjE0NUMyMS42OSAyLjI4IDI0IDMuNDM0IDI0IDUuNDU3eiIvPjwvc3ZnPg=="/><text font-weight="bold" fill="#fff" textLength="432.5" y="175" x="536.25" transform="scale(.1)">GMAIL</text></g></svg>
 
-<a href="mailto:josepdrjw@gmail.com">
-  <img src="https://i.imgur.com/hGVSWzr.png" style="width="87.25"; heigth="28"">
-</a>

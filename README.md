@@ -11,7 +11,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<a >
-<image src="https://i.imgur.com/hGVSWzr.png" x="9" y="7" width="87.25" height="28" xlink:href="maito:jsepdrjw@gmaicmo"/>
+<a href="mailto:josepdrjw@gmaill.com">
+<image src="https://i.imgur.com/hGVSWzr.png" x="9" y="7" width="87.25" height="28"/>
 </a>  
 

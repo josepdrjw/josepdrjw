@@ -12,6 +12,6 @@
 - ⚡ Fun fact: ...
 
 <a href="mailto:josepdrjw@gmaill.com">
-<image src="https://i.imgur.com/hGVSWzr.png" x="9" y="7" width="87.25" height="28"/>
+<image src="https://i.imgur.com/WJ7x5U7.jpg" x="9" y="7" width="87.25" height="28"/>
 </a>  
 

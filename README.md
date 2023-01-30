@@ -22,7 +22,7 @@
 <a href="mailto:josepdrjw@gmaill.com">
 <image src="https://i.imgur.com/WJ7x5U7.jpg"/>
 </a> 
-<a href="https://www.linkedin.com/in/jos%C3%A9-wemerson-pereira-de-araujo-90877623b/">
+<a href="https://www.linkedin.com/in/ze-pdr-dev">
 <image src="https://i.imgur.com/kmAppCc.jpg"/>
 </a>  
 

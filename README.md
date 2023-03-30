@@ -17,6 +17,9 @@
     <img align="center" alt="ze-react-redux" height="30" width="40" src="https://d33wubrfki0l68.cloudfront.net/0834d0215db51e91525a25acf97433051f280f2f/c30f5/img/redux.svg" style="max-width: 100%;">
       <img align="center" alt="ze-docker" height="45" width="80" src="https://1000logos.net/wp-content/uploads/2021/11/Docker-Logo-500x281.png" style="max-width: 100%;">
 </div></br></br>
+<a href="mailto:josepdrjw@gmail.com">
+  josepdrjw@gmail.com
+</a>
 
 📫</br>
 <a href="mailto:josepdrjw@gmaill.com">

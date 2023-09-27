@@ -5,7 +5,7 @@
 - 💰🔨 Atuamente trabalho com vendas.
 - 👨🏾‍🎓💻 Desenvolvedor Web <span>Full Stack</span>.
 - 🚀👩‍💻 Buscando vagas em TECNOLOGIA almeijando adquirir valores.
-- 🤹🏼  HTML | CSS | JAVASCRIPT | REACT | REDUX | DOCKER | MYSQL
+- 🤹🏼  HTML | CSS | JAVASCRIPT | REACT | REDUX | DOCKER | MYSQL | Nodejs
 
 
 

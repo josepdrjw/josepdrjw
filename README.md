@@ -3,7 +3,7 @@
 
 
 - 💰🔨 Atuamente trabalho com vendas.
-- 👨🏾‍🎓💻 Em Processo de formação em desenvolvimento <span>Back-end</span>.
+- 👨🏾‍🎓💻 Desenvolvedor Web <span>Full Stack</span>.
 - 🚀👩‍💻 Buscando vagas em TECNOLOGIA almeijando adquirir valores.
 - 🤹🏼  HTML | CSS | JAVASCRIPT | REACT | REDUX | DOCKER | MYSQL
 

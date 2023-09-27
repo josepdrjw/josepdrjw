@@ -1,4 +1,4 @@
-### Olá Mundo! 👋, me chamo Zé Wemerson, Desenvolvedor Front-end!
+### Olá Mundo! 👋, me chamo Zé Wemerson, Desenvolvedor Web!
 
 
 
